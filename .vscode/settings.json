@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "code-runner.executorMap": {
+    "typescript": "npx ts-node --files"
+  },
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.showRunIcon": true
+}
